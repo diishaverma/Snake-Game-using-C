@@ -1,2 +1,2 @@
-# Snake-Game-using-C
-Snake and Food game using C language
+# Snake-Game-using-Cpp
+Snake and Food game using Cpp language
